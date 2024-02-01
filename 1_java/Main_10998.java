@@ -9,6 +9,7 @@ public class Main_10998 {
 
        System.out.println(A*B);
 
-
+    input.close();
+    
     }
 }
