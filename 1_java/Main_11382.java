@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Main_18108 {
+public class Main_11382 {
     public static void main(String[] avrg){
         Scanner in = new Scanner(System.in);
 
-        int A = in.nextInt();
-        int B = in.nextInt();
-        int C = in.nextInt();
+        long A = in.nextLong();
+        long B = in.nextLong();
+        long C = in.nextLong();
 
         System.out.println(A+B+C);
 
