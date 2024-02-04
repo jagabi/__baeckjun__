@@ -9,5 +9,7 @@ public class Main_10869 {
 
         System.out.println((A+B)+"\n"+(A-B) + "\n" + (A*B) + "\n" + (A/B) + "\n" + (A%B));
 
+        input.close();
+
     }
 }
