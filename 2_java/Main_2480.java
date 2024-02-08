@@ -10,7 +10,7 @@ public class Main_2480 {
         int[] diceArray = {A,B,C};
 
         int max = Integer.MIN_VALUE;
-
+        input.close();
         for (int i = 0 ; i < diceArray.length ; i++) {
             max = Math.max(max, diceArray[i]);
         }
